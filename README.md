@@ -18,3 +18,14 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+
+# Getting Started - Setup
+```shell
+pip3 install matplotlib
+pip3 install numpy
+pip3 install opencv-python
+pip3 install sklearn
+pip3 install pyrealsense2 -f https://github.com/cansik/pyrealsense2-macosx/releases
+python3 augmented_slw_lane_detecting_with_splitting_and_merge_lanes_031302.py
+```
